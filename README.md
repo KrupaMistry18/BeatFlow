@@ -1,38 +1,19 @@
-# Spotify Clone Front-End
-A front-end clone project of the Spotify web player. The project was created using the create-react-app CLI. The app is currently using a limited number of songs that are uploaded on drive.
+**#BeatFlow**
+BeatFlow is a web-based music player, developed using the create-react-app CLI. This project features a limited selection of songs hosted on Google Drive, allowing users to play, pause, and navigate through tracks in an interactive interface.
 
-# Link
-https://spotify-clone-ae6f6.web.app
+**#Description**
+BeatFlow is a React-based music player. Leveraging song data from Google Drive, the app focuses on mimicking Spotify's UI and front-end behavior to deliver a familiar experience.
 
-# Table of Contents
-•	Description <br />
-•	Features <br />
-•	Motivation <br />
-•	Tech/Framework Used <br />
+This project includes 24 songs for testing and demonstration purposes.
 
-# Description
-A clone web application using the create-react-app. The app uses Song's data from drive and tries to mimic the UI and front-end behaviours of the official Spotify web player as much as possible. <br />
-![3](https://user-images.githubusercontent.com/111369577/189442099-896efbe3-5edc-45c8-a7c9-67e9dde2052d.jpg)
-24 songs were used in this project.
+**#Features**
+• Play and Pause music playback. <br /> • Full-fledged music player with time tracking and progress bar. <br /> • Select and switch between songs from the list. <br /> • Use the progress bar to adjust playback timing. <br />
 
-# Features
-•	The Play/Pause button <br />
-•	Music Player  <br />
-•	The progress bar is synchronised with the currently playing song. <br />
-•	Select a song by clicking on it. <br />
-•	Use the progress bar to change the song’s playing time. <br />
-![1](https://user-images.githubusercontent.com/111369577/189442265-1a9acefa-a732-4681-9955-a5eb539be3a8.jpg)
-![1](https://user-images.githubusercontent.com/111369577/189442194-f13f5ba3-e882-4cfb-b39c-c54bde59332e.jpg)
+**#Motivation**
+The main goal behind BeatFlow was to strengthen my skills in React development by building a clone of a well-known product. Focusing on an established design like Spotify helped me concentrate on learning React without worrying about UI/UX. As a frequent music listener, I found this project to be both challenging and enjoyable. All key components and logic were built from scratch, deepening my understanding of React.
 
-# Motivation
-This project was created by me mainly to teach myself React development. Since the point of this project was not to make great UI/UX design choices, I chose to create a clone of a well-established product in order to shorten my learning time and not to focus on the wrong thing. Since I am already a heavy Spotify user, I thought it would be an interesting challenge to tackle. 
-The majority of the react components and logic were written from scratch by myself.
-
-# Tech/Framework Used
-•	React (create-react-app CLI) <br />
-•	Html <br />
-•	Css <br />
-•	Java Script <br />
+**#Tech/Framework Used**
+• React (create-react-app CLI) <br /> • HTML <br /> • CSS <br /> • JavaScript <br />
 
 # Getting Started with Create React App
 
